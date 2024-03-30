@@ -12,7 +12,7 @@ Simple Arduino based macropad I did for my high school final project.
 - Keycaps x10
 - Standard signal diodes 1N4148 x10
 - LED lights, red, 3mm x10
-- wires
+- Wires
 - 3D printed case
 
 ### Case 3D model
