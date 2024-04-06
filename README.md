@@ -17,5 +17,5 @@ Simple Arduino based macropad I did for my high school final project.
 
 ### Case 3D model
 I used the following and modified it a bit (removed the logo, added hex mesh on the side, added hole...):
-[Link to 3D model](https://www.thingiverse.com/thing:4539723)
+[Original 3D model](https://www.thingiverse.com/thing:4539723)
 
