@@ -1,7 +1,7 @@
 # macrokeeb
 Simple Arduino based macropad I did for my high school final project.
 
-![macrokeeb](https://github.com/mihaelsegulja/macrokeeb/assets/117396024/d6478591-9f12-45cf-902a-df69c725b6d6)
+![macrokeeb](/images/macrokeeb_final_3.jpg)
 
 
 ## Parts
