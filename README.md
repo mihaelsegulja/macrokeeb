@@ -19,3 +19,8 @@ Simple Arduino based macropad I did for my high school final project.
 I used the following and modified it a bit (removed the logo, added hex mesh on the side, added hole...):
 [Original 3D model](https://www.thingiverse.com/thing:4539723)
 
+##Links
+- [Pro Micro & Fio V3 Hookup Guide](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all)
+- [Programmable Macropad V2](https://www.instructables.com/Programmable-Macropad-V2/)
+- [Designing and Building a Macro Pad](https://codevember.org/projects/designing-and-building-a-macro-pad/)
+- [HID library](https://github.com/NicoHood/HID)
