@@ -15,9 +15,10 @@ Simple Arduino based macropad I did for my high school final project.
 - Wires
 - 3D printed case
 
-### Case 3D model
-I used the following and modified it a bit (removed the logo, added hex mesh on the side, added hole...):
-[Original 3D model](https://www.thingiverse.com/thing:4539723)
+### Case 3D Model
+I used the following and modified it a bit (removed the logo, added hex mesh on the side, added hole...): 
+
+[CODEK - Configurable OLED Display Extension Keyboard](https://www.thingiverse.com/thing:4539723) by [tanmayburde](https://www.thingiverse.com/tanmayburde), licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Links
 - [Pro Micro & Fio V3 Hookup Guide](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all)
