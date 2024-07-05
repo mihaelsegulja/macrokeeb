@@ -1,8 +1,6 @@
 # macrokeeb
 
-<center>Simple 10-key Arduino-based macropad with OLED screen and rotary encoder I did for my high school final project.</center>
-
-<br>
+Simple 10-key Arduino-based macropad with OLED screen and rotary encoder I did for my high school final project.
 
 ![macrokeeb](/images/macrokeeb_final_3.jpg)
 
