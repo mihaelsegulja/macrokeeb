@@ -78,7 +78,7 @@ I used the following and modified it a bit (removed the logo, added hex mesh on 
 
 ![step6](/images/macrokeeb_assembly_6.jpg)
 
-7. Now is the time to load the firmware onto the Pro Micro and test it out and make adjustments as needed before closing the case.
+7. Now is the time to load the firmware onto the Pro Micro and test it out and make adjustments as needed before closing the case. I used Arduino IDE 2.0.
 
 ![step7](/images/macrokeeb_assembly_7.jpg)
 
