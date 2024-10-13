@@ -33,13 +33,12 @@ Simple 10-key Arduino-based macropad with OLED screen and rotary encoder I did f
 
 ## Case
 
-I used the following and modified it a bit (removed the logo, added hex mesh on the side, added hole...): 
+I used the following and modified it a bit (removed the logo, added hex mesh on the side, added hole...):
 [CODEK - Configurable OLED Display Extension Keyboard](https://www.thingiverse.com/thing:4539723)
 
 ![case](/images/macrokeeb_3d_printed_case.jpg)
 
-> ### :bulb: Pro tip:
->
+> [!TIP]
 > Use sandpaper to smoothen rough edges, read more [here](https://www.3dsourced.com/guides/sanding-pla/) on how to do it.
 
 ## Assembly
@@ -48,11 +47,10 @@ I used the following and modified it a bit (removed the logo, added hex mesh on 
 
 ![diagram2](/diagrams/electric_diagram.jpg)
 
-> ### :bulb: Pro tip:
->
+> [!TIP]
 > Before putting it all together, test all of your components separately to ensure they all work.
 
-### Steps:
+### Steps
 
 1. Slide the OLED display holder into the top plate. Install the switches into the top plate. Both can be a tight fit, but that shouldn't be a problem. In that case, apply more pressure or sand down the tight parts.
 
@@ -90,7 +88,7 @@ I used the following and modified it a bit (removed the logo, added hex mesh on 
 
 ![step9](/images/macrokeeb_final_2.jpg)
 
-## Suggestions, improvements, ideas:
+## Suggestions, improvements, ideas
 
 - Add layer with keys F13-F22 and map them with a key mapper software like [AutoHotKey](https://www.autohotkey.com/)
 - Add simple games like tetris or pong on the screen and control it with the keys
