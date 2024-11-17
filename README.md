@@ -56,7 +56,10 @@ I used the following and modified it a bit (removed the logo, added hex mesh on 
 
 ![step1](/images/macrokeeb_assembly_1.jpg)
 
-2. For wiring, refer to the diagrams. Basically, you have to wire the keys in a matrix. For soldering, you can do the following: cut the wires in smaller ones, long enough to wire up one switch with the next one; use one wire per row/column and remove the coating where needed; use one wire per row/column and solder through the coating. I suggest that you use your own technique.
+2. For wiring, refer to the diagrams. Basically, you have to wire the keys in a matrix. For soldering, I suggest one the following: 
+ - cut the wires in smaller ones, long enough to wire up one switch with the next one, 
+ - use one wire per row/column and remove the coating where needed,
+ - use one wire per row/column and solder through the coating
 
 ![step2](/images/macrokeeb_assembly_2.jpg)
 
@@ -76,7 +79,7 @@ I used the following and modified it a bit (removed the logo, added hex mesh on 
 
 ![step6](/images/macrokeeb_assembly_6.jpg)
 
-7. Now is the time to load the firmware onto the Pro Micro and test it out and make adjustments as needed before closing the case. I used Arduino IDE 2.0.
+7. Now is the time to load the firmware onto the Pro Micro and test it out and make adjustments as needed before closing the case. I used Arduino IDE 2.0. For additional libraries, drivers and their respective guides for installation, refer to the [Links](#links) section.
 
 ![step7](/images/macrokeeb_assembly_7.jpg)
 
@@ -104,3 +107,4 @@ I used the following and modified it a bit (removed the logo, added hex mesh on 
 - [HID library](https://github.com/NicoHood/HID)
 - [Adafruit SSD1306 library](https://github.com/adafruit/Adafruit_SSD1306)
 - [Adafruit GFX library](https://github.com/adafruit/Adafruit-GFX-Library)
+
